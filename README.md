@@ -1,6 +1,15 @@
 # Peachy Store
 
-An Expo React Native app written in TypeScript.
+ 
+Peachy Store is a mock beauty shopping app built with React Native, Expo, and
+TypeScript. I built it to practice mobile development by creating a simple
+shopping flow from browsing products to checkout.
+
+## MVP scope
+
+- **Product list** — Browse a catalogue of makeup products.
+- **Product details** — View a product’s brand, price, and stock status, and add it to the cart.
+- **Checkout** — Review the items in your cart and the order total.
 
 ## Get started
 
