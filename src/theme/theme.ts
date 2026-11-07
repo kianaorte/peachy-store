@@ -61,3 +61,5 @@ export const radius = {
   xl: 24,
   full: 9999,
 } as const;
+
+export const iconSize = 24;
